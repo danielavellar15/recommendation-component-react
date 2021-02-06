@@ -1,8 +1,8 @@
 .Card {
     width: 230px;
-    height: 380px;
-    font-family: "Source Sans Pro Regular",sans-serif;
-    border: 1px solid #000
+    height: 380px;    
+    border: 1px solid #000;
+    margin:5px;
 }
 
 .Card-img {
@@ -34,6 +34,5 @@
 
 .Card-info .Card-rating img{
     margin-top: 10px;
-
     height: 20px;
 }

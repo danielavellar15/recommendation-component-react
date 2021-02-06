@@ -1,0 +1,39 @@
+.Card {
+    width: 230px;
+    height: 380px;
+    font-family: "Source Sans Pro Regular",sans-serif;
+    border: 1px solid #000
+}
+
+.Card-img {
+    height: 60%;
+}
+
+.Card-img img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Card-info {
+    height: 40%;
+    margin: 0px 10px;
+}
+
+.Card-info .Card-description {
+    font-size: 18px;
+}
+
+.Card-info .Card-price {
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.Card-info .Card-rating img{
+    margin-top: 10px;
+
+    height: 20px;
+}
